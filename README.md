@@ -14,3 +14,12 @@ A powerful and interactive tool that analyzes WhatsApp group chats to visualize 
 - 📌 **Most Common Words**: See a ranked list of the most used words in the chat.
 - 😂 **Emoji Analysis**: Analyze the most used emojis in the group and who uses them the most.
 
+
+![App Screenshot](https://github.com/AditiChowdhury16/Whatsapp_chat_anaalyser/blob/main/s1.jpg)
+![App Screenshot](https://github.com/AditiChowdhury16/Whatsapp_chat_anaalyser/blob/main/s2.jpg)
+![App Screenshot](https://github.com/AditiChowdhury16/Whatsapp_chat_anaalyser/blob/main/s3.jpg)
+![App Screenshot](https://github.com/AditiChowdhury16/Whatsapp_chat_anaalyser/blob/main/s4.jpg)
+![App Screenshot](https://github.com/AditiChowdhury16/Whatsapp_chat_anaalyser/blob/main/s5.jpg)
+![App Screenshot](https://github.com/AditiChowdhury16/Whatsapp_chat_anaalyser/blob/main/s6.jpg)
+![App Screenshot](https://github.com/AditiChowdhury16/Whatsapp_chat_anaalyser/blob/main/s7.jpg)
+![App Screenshot](https://github.com/AditiChowdhury16/Whatsapp_chat_anaalyser/blob/main/s8.jpg)
